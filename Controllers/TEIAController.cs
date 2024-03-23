@@ -19,7 +19,12 @@ namespace TeiaC153201.Controllers
             // tratamento de casos de strings vazias ou nulas
             if (dados.texto == null || dados.texto.Length == 0)
             {
-                return BadRequest("Parâmetros texto é obrigatorio");
+                var statusError = new
+                {
+                    status = 400,
+                    message = "Parâmetros texto é obrigatorio"
+                };
+                return BadRequest(statusError);
             }
 
             // Verifica se a string é um palíndromo

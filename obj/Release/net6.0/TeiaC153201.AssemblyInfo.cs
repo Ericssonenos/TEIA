@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeiaC153201")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77096219ba3a00887afbb66ab31b46904b05cc37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+427ca7a7eb7f1e73c0810395fa87cf323da71852")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeiaC153201")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeiaC153201")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
