@@ -1,0 +1,11 @@
+C:\Users\Ericsson Novais\source\repos\TeiaC153201\TEIA\obj\Release\net6.0\PubTmp\Out\TeiaC153201.exe
+C:\Users\Ericsson Novais\source\repos\TeiaC153201\TEIA\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Ericsson Novais\source\repos\TeiaC153201\TEIA\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Ericsson Novais\source\repos\TeiaC153201\TEIA\obj\Release\net6.0\PubTmp\Out\TeiaC153201.dll
+C:\Users\Ericsson Novais\source\repos\TeiaC153201\TEIA\obj\Release\net6.0\PubTmp\Out\TeiaC153201.runtimeconfig.json
+C:\Users\Ericsson Novais\source\repos\TeiaC153201\TEIA\obj\Release\net6.0\PubTmp\Out\TeiaC153201.pdb
+C:\Users\Ericsson Novais\source\repos\TeiaC153201\TEIA\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Ericsson Novais\source\repos\TeiaC153201\TEIA\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ericsson Novais\source\repos\TeiaC153201\TEIA\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ericsson Novais\source\repos\TeiaC153201\TEIA\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ericsson Novais\source\repos\TeiaC153201\TEIA\obj\Release\net6.0\PubTmp\Out\TeiaC153201.deps.json

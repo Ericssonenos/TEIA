@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿
 
 namespace TeiaC153201.Models
 {
@@ -44,16 +41,20 @@ namespace TeiaC153201.Models
 
         public Dictionary<char, int> ContarCaracter()
         {
+            // crio um dicionário que recebe um char e um int onde char e a chave, e o int o valor
             Dictionary<char, int> lista = new Dictionary<char, int>();
 
+            // realizo um loop para cada caractere
             foreach (char caracter in texto)
             {
+                // Se este caractere já exitir dentro do dicionário, apenas soma mais um
                 if (lista.ContainsKey(caracter))
                 {
                     lista[caracter]++;
                 }
                 else
                 {
+                    // Se não exitir dentro do dicionário, add atribuido o valor 1
                     lista[caracter] = 1;
                 }
             }
